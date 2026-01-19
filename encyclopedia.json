@@ -8,7 +8,7 @@
       "description": "Standardowa broń boczna. Niezawodna na start.",
       "stats": {
         "damage": 35,
-        "fire_rate": 400,
+        "fire_rate": 4000,
         "projectile_count": 1,
         "spread": 2.0,
         "speed": 50.0,
