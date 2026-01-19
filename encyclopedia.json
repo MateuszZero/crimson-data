@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "Pistol",
+    "type": "Weapon",
+    "image_url": "https://mateuszzero.github.io/crimson-data/images/pistol1.png",
+    "details": {
+      "description": "Standardowa broń boczna. Niezawodna na start.",
+      "stats": {
+        "damage": 35,
+        "fire_rate": 400,
+        "projectile_count": 1,
+        "spread": 2.0,
+        "speed": 50.0,
+        "projectile_type_id": 0
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "SMG",
+    "type": "Weapon",
+    "image_url": "https://mateuszzero.github.io/crimson-data/images/smg2.png",
+    "details": {
+      "description": "Pistolet maszynowy. Szybki, ale mało celny.",
+      "stats": {
+        "damage": 18,
+        "fire_rate": 100,
+        "projectile_count": 1,
+        "spread": 7.0,
+        "speed": 55.0,
+        "projectile_type_id": 0
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Shotgun",
+    "type": "Weapon",
+    "image_url": "https://mateuszzero.github.io/crimson-data/images/shotgun3.png",
+    "details": {
+      "description": "Wystrzeliwuje 6 pocisków naraz. Zabójczy z bliska.",
+      "stats": {
+        "damage": 25,
+        "fire_rate": 900,
+        "projectile_count": 6,
+        "spread": 20.0,
+        "speed": 45.0,
+        "projectile_type_id": 0
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Assault Rifle",
+    "type": "Weapon",
+    "image_url": "https://mateuszzero.github.io/crimson-data/images/machinegun4.png",
+    "details": {
+      "description": "Karabin szturmowy. Dobry balans między celnością a szybkostrzelnością.",
+      "stats": {
+        "damage": 32,
+        "fire_rate": 130,
+        "projectile_count": 1,
+        "spread": 3.0,
+        "speed": 60.0,
+        "projectile_type_id": 0
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Flamethrower",
+    "type": "Weapon",
+    "image_url": "https://mateuszzero.github.io/crimson-data/images/flamethrower5.png",
+    "details": {
+      "description": "Miotacz ognia. Podpala wrogów w krótkim zasięgu.",
+      "stats": {
+        "damage": 7,
+        "fire_rate": 40,
+        "projectile_count": 1,
+        "spread": 12.0,
+        "speed": 22.0,
+        "projectile_type_id": 1
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Rocket Launcher",
+    "type": "Weapon",
+    "image_url": "https://mateuszzero.github.io/crimson-data/images/rocketlauncher6.png",
+    "details": {
+      "description": "Wyrzutnia rakiet. Zadaje potężne obrażenia obszarowe.",
+      "stats": {
+        "damage": 150,
+        "fire_rate": 1300,
+        "projectile_count": 1,
+        "spread": 2.0,
+        "speed": 35.0,
+        "projectile_type_id": 2
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Minigun",
+    "type": "Weapon",
+    "image_url": "https://mateuszzero.github.io/crimson-data/images/minigun7.png",
+    "details": {
+      "description": "Ciężki karabin maszynowy. Zasypuje wroga gradem kul.",
+      "stats": {
+        "damage": 20,
+        "fire_rate": 50,
+        "projectile_count": 1,
+        "spread": 10.0,
+        "speed": 60.0,
+        "projectile_type_id": 0
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Auto Laser",
+    "type": "Weapon",
+    "image_url": "https://mateuszzero.github.io/crimson-data/images/autolaser8.png",
+    "details": {
+      "description": "Karabin laserowy. Idealna celność i natychmiastowe trafienie.",
+      "stats": {
+        "damage": 45,
+        "fire_rate": 120,
+        "projectile_count": 1,
+        "spread": 0.0,
+        "speed": 80.0,
+        "projectile_type_id": 3
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "Gauss Cannon",
+    "type": "Weapon",
+    "image_url": "https://mateuszzero.github.io/crimson-data/images/gauss9.png",
+    "details": {
+      "description": "Działo Gaussa. Przebija wszystkich wrogów na linii strzału.",
+      "stats": {
+        "damage": 400,
+        "fire_rate": 1600,
+        "projectile_count": 1,
+        "spread": 0.0,
+        "speed": 100.0,
+        "projectile_type_id": 4
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Auto Rocket",
+    "type": "Weapon",
+    "image_url": "https://mateuszzero.github.io/crimson-data/images/autorocket10.png",
+    "details": {
+      "description": "Automatyczna wyrzutnia rakiet. Zagłada.",
+      "stats": {
+        "damage": 120,
+        "fire_rate": 350,
+        "projectile_count": 1,
+        "spread": 8.0,
+        "speed": 40.0,
+        "projectile_type_id": 2
+      }
+    }
+  }
+]
